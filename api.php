@@ -27,6 +27,6 @@ class api extends restful_api {
 	}
 }
 
-$user_api = new user_api();
+$user_api = new api();
 
 ?>
